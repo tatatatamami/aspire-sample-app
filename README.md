@@ -31,7 +31,3 @@
    - Web フロントエンドが起動すること
    - `/weather` 画面で API のデータが表示されること
    - 開発環境で `/health` と `/alive` が応答すること
-
-## GitHub リポジトリ Description（例）
-
-`.NET Aspire sample app with AppHost, API service, Blazor Web frontend, and observability defaults.`
